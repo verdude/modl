@@ -1,0 +1,16 @@
+responses:
+   utter_greet:
+       - text: |
+           Hello! How can I help you?
+       - text: |
+           Hi, dumbo!
+   utter_ask_email:
+       - text: |
+           What is your email address?
+   utter_subscribed:
+       - text: |
+           Check your inbox at {email} in order to finish subscribing to the awful newsletter!
+       - text: |
+           You're all set! Check your inbox at {email} to (NOT!) confirm your subscription.
+       - text: |
+         Lol, done1!
