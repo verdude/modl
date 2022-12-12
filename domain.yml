@@ -6,6 +6,8 @@ intents:
 - greet
 - inform
 - subscribe
+entities:
+  - email
 slots:
   email:
     type: text

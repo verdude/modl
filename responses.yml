@@ -13,4 +13,4 @@ responses:
        - text: |
            You're all set! Check your inbox at {email} to (NOT!) confirm your subscription.
        - text: |
-         Lol, done1!
+         Lol, done1 {email}!
